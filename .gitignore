@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CameraTest/CameraTest/obj
+/CameraTest/CameraTest/bin/Debug/netstandard2.0
+/CameraTest/CameraTest.Android/bin/Debug
+/CameraTest/CameraTest.Android/obj
+/.vs/CameraTest/v15/Server/sqlite3
+/CameraTest/CameraTest.UWP/bin/x86/Debug
+/CameraTest/CameraTest.UWP/obj
